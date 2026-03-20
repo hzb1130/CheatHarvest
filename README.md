@@ -26,8 +26,3 @@ This mod severely disrupts game balance and gameplay.
 ## 警告：
 该模组对游戏平衡和游戏性破坏大。
 
-## Cheat Tip:
-Open CheatHarvest.json in the Mods folder and change the pickupRadius value to several thousand for a massive collection range.
-## 作弊技巧：
-在 Mods 文件夹下打开 CheatHarvest.json，将 pickupRadius 后的数字修改为几千，即可大幅扩展收集范围。
-
